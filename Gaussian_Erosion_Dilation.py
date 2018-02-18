@@ -4,9 +4,6 @@
 # # Gaussian blur, Dilation and Erosion
 # ## To remove noise and variance from image (pixel that are closer have high avaerge affect)
 
-# In[1]:
-
-
 import numpy as np
 import cv2
 
