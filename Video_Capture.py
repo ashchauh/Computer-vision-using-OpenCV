@@ -3,7 +3,7 @@
 
 # # Video feeds in Opencv
 
-# In[3]:
+
 
 
 import numpy as np
