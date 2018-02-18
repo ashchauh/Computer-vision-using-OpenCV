@@ -3,8 +3,6 @@
 
 # # Scaling and rotating images
 
-# In[1]:
-
 
 import numpy as np
 import cv2
