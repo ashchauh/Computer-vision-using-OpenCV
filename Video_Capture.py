@@ -1,11 +1,4 @@
 
-# coding: utf-8
-
-# # Video feeds in Opencv
-
-
-
-
 import numpy as np
 import cv2
 
@@ -24,6 +17,3 @@ while (True):
         
 cap.release()
 cv2.destroyAllWindows()
-
-
-# # Real time interfaces
