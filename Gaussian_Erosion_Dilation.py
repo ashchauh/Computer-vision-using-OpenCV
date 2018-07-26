@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # Gaussian blur, Dilation and Erosion
-# ## To remove noise and variance from image (pixel that are closer have high avaerge affect)
+# # To remove noise and variance from image (pixel that are closer have high avaerge affect)
 
 import numpy as np
 import cv2
