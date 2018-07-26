@@ -16,9 +16,6 @@ img.shape
 img.size
 
 
-# In[6]:
-
-
 black= np.zeros([150,200,1],'uint8')
 cv2.imshow("Black",black)
 print (black)
