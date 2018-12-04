@@ -1,16 +1,5 @@
-
-# coding: utf-8
-
-# # Real time interface
-
-# In[5]:
-
-
 import numpy as np
 import cv2
-
-
-# In[8]:
 
 
 cap=cv2.VideoCapture(0)
@@ -36,4 +25,3 @@ while (True):
         
 cap.release()
 cv2.destroyAllWindows()
-
